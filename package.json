@@ -2,6 +2,9 @@
   "name": "nodejs-demo",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start":"node server.js"
+  },
   "repository": "https://github.com/meleelin/nodejs-demo.git",
   "author": "meleelin <sdy2615380450@gmail.com>",
   "license": "MIT",
