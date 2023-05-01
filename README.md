@@ -1,1 +1,1 @@
-# nodejs-demo
+# nodejs-image-converter-demo
